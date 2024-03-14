@@ -1,6 +1,6 @@
 # Tic Tac Toe Game
 
-![Tic Tac Toe Preview]()
+![Tic Tac Toe Preview](bye.png)
 
 ## Overview
 
