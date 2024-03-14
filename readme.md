@@ -1,6 +1,6 @@
 # Tic Tac Toe Game
 
-![Tic Tac Toe Preview](preview.png)
+![Tic Tac Toe Preview]()
 
 ## Overview
 
@@ -32,13 +32,6 @@ Tic Tac Toe is a classic game enjoyed by people of all ages. This web-based impl
 
 ![Tic Tac Toe Preview](hi.png)
 
-## Contact
-
-For any inquiries or feedback, feel free to reach out to us at [your-email@example.com](mailto:your-email@example.com).
-
-## Credits
-
-This project was created by [Your Name].
 
 ## License
 
